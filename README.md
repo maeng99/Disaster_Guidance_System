@@ -73,8 +73,6 @@
   - 챗봇에 재난과 관련된 특정 상황에 대해서 query로 입력
   - 재난 행동요령 데이터베이스에서 문장유사도를 분석해 참조데이터로 인용
   - queary와 함께 참조데이터를 LLM에 입력하면 각 query에 맞는 정확한 응답 제공
-<br />
-
 <img src="https://github.com/user-attachments/assets/3a254bc2-124c-4e07-b207-fdaae89c191f" width="500px"/>
 <br/>
 <br/>
