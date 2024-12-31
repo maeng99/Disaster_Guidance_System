@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-![image]([https://github.com/user-attachments/assets/226747c3-f42e-48dd-b28d-50082b90f582](https://private-user-images.githubusercontent.com/137726145/399526149-226747c3-f42e-48dd-b28d-50082b90f582.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU2ODA3OTMsIm5iZiI6MTczNTY4MDQ5MywicGF0aCI6Ii8xMzc3MjYxNDUvMzk5NTI2MTQ5LTIyNjc0N2MzLWY0MmUtNDhkZC1iMjhkLTUwMDgyYjkwZjU4Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjMxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIzMVQyMTI4MTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YmFmZmQ3YTRiNjFiNTkxYWVmYmM4NTlmYTY4OGViZjlhMDU0NTQ5YzUwNzM1ZjExMWQ0YzczMTQxNGI4ZjNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.EICB0cBgwJjK93b0AA1WiF1dnL13Ep3ki7fIOd0eXGI))
+<img src="https://github.com/user-attachments/assets/226747c3-f42e-48dd-b28d-50082b90f582" alt="배너" width="100%"/>
 </a>
 
 <br/>
