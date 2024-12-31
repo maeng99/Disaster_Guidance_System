@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-<img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
+![image](https://github.com/user-attachments/assets/226747c3-f42e-48dd-b28d-50082b90f582)
 </a>
 
 <br/>
