@@ -8,7 +8,10 @@
 # ⚠️ [우수상 수상] 긴급재난 대피 알림 서비스 (출발휴먼팀) ⚠️
 - "2024년 SW중심대학사업 인공지능과 클라우드를 활용한 서비스·콘텐츠 활용 사례 공모전" 우수상 수상
 <br />
-<img src="https://github.com/user-attachments/assets/29331362-ff0e-404a-aae2-7b0c7597d67e" width="500px"/>
+<div style="display:flex;">
+  <img src="https://github.com/user-attachments/assets/84a7fe61-bf7c-4f54-9989-0c08584bf093" width="300px">
+  <img src="https://github.com/user-attachments/assets/29331362-ff0e-404a-aae2-7b0c7597d67e" width="500px"/>
+</div>
 <br/>
 <br/>
 
