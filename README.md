@@ -80,7 +80,7 @@
 <br/>
 <br/>
 
-## 5. 발표 PDF
+## 5. Presentation PDF
 - 프로젝트 자세히 알아보기
 
 [📄 disaster_guidance_system_PDF](https://github.com/maeng99/disaster_guidance_system/blob/main/disaster_guidance_system_PDF.pdf)
