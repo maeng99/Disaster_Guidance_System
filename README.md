@@ -22,14 +22,14 @@
 <br/>
 
 ## 2. Team Members
-**Team: 출발휴먼팀**(5명)
+Team: **출발휴먼팀**(5명)
 | 김명건 | 김재관 | 맹의현 | 유민균 | 진영인|
 |:------:|:------:|:------:|:------:|:------:|
 | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/maeng99) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
 
 <br/>
 
-## 3. Key Features
+## 3. Key Points
 <img src="https://github.com/user-attachments/assets/7cc0749d-5833-4a4e-826d-3b69e2441459" width="800px"/>
 
 - **앱 PUSH알림 발송**:
@@ -82,6 +82,4 @@
 <br/>
 
 ## 5. Presentation PDF
-- 프로젝트 자세히 알아보기
-
-[📄 disaster_guidance_system_PDF](https://github.com/maeng99/disaster_guidance_system/blob/main/disaster_guidance_system_PDF.pdf)
+- 프로젝트 자세히 알아보기<br />[📄 Disaster_Guidance_System_PDF](https://github.com/maeng99/disaster_guidance_system/blob/main/disaster_guidance_system_PDF.pdf)
