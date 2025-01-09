@@ -16,13 +16,13 @@
 <br/>
 
 ## 1. Project Overview
-- 프로젝트 이름: **긴급재난 대피 알림 서비스**
+- 프로젝트 이름: **"긴급재난 대피 알림 서비스"**
 - 프로젝트 주제: 긴급한 재난 상황에서 신속한 대응을 위한 구체적인 정보를 맞춤 제공해주는 서비스
 - 프로젝트 기간: 2024.03~2024.04 (1개월)
 <br/>
 
 ## 2. Team Members
-Team: **출발휴먼팀**(5명)
+Team: **"출발휴먼팀"**(5명)
 | 김명건 | 김재관 | 맹의현 | 유민균 | 진영인|
 |:------:|:------:|:------:|:------:|:------:|
 | [GitHub](https://github.com/) | [GitHub](https://github.com/) | [GitHub](https://github.com/maeng99) | [GitHub](https://github.com/) | [GitHub](https://github.com/) |
